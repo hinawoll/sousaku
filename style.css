@@ -35,7 +35,7 @@ h1 {
  --------------------------------------------*/
 #header {
   height: 100vh;
-  background-image: url(../images/mainvisual-pc.jpg);
+  background-image: url(images/mainvisual-pc.jpg);
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
